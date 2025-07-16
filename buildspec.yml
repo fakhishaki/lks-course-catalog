@@ -31,3 +31,5 @@ reports:
 artifacts:
   files:
     - imagedefinitions.json
+
+# test autodeploy
